@@ -33,5 +33,11 @@
   {"code": "9433","name": "ＫＤＤＩ","name_kana": "けいでぃーでぃーあい","name_en": "KDDI Corporation","industry": "情報通信・サービスその他" },
   {"code": "9434","name": "ソフトバンク","name_kana": "そふとばんく","name_en": "SoftBank Corp.","industry": "情報通信・サービスその他" },
   {"code": "9983","name": "ファーストリテイリング","name_kana": "ふぁーすとりていりんぐ","name_en": "Fast Retailing Co., Ltd.","industry": "小売" },
-  {"code": "9984","name": "ソフトバンクグループ","name_kana": "そふとばんくぐるーぷ","name_en": "SoftBank Group Corp.","industry": "情報通信・サービスその他"}
+  {"code": "9984","name": "ソフトバンクグループ","name_kana": "そふとばんくぐるーぷ","name_en": "SoftBank Group Corp.","industry": "情報通信・サービスその他"},
+  {"code": "1925","name": "大和ハウス工業","name_kana": "だいわはうすこうぎょう","name_en": "Daiwa House Industry Co., Ltd.","industry": "建設業"},
+  {"code": "1928","name": "積水ハウス","name_kana": "せきすいはうす","name_en": "Sekisui House, Ltd.","industry": "建設業"},
+  {"code": "2502","name": "アサヒグループホールディングス","name_kana": "あさひぐるーぷほーるでぃんぐす","name_en": "Asahi Group Holdings, Ltd.","industry": "食料品"},
+  {"code": "2503","name": "キリンホールディングス","name_kana": "きりんほーるでぃんぐす","name_en": "Kirin Holdings Company, Limited","industry": "食料品"},
+  {"code": "2802","name": "味の素","name_kana": "あじのもと","name_en": "Ajinomoto Co., Inc.","industry": "食料品"},
+  {"code": "3407","name": "旭化成","name_kana": "あさひかせい","name_en": "Asahi Kasei Corporation","industry": "素材・化学"}
 ]
