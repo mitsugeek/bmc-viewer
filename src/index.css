@@ -508,3 +508,33 @@
   outline: 2px solid #3b82f6;
   outline-offset: 2px;
 }
+
+/* iOS Safari専用のピンチズーム対応 */
+@supports (-webkit-touch-callout: none) {
+  /* iOS専用 */
+  .bmc-zoom-container {
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x pan-y pinch-zoom;
+    overflow: auto;
+    will-change: transform;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+  
+  /* iOS Safariでのズーム問題対策 */
+  .bmc-zoom-content {
+    transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+}
+
+/* モバイル専用のズーム最適化 */
+@media (max-width: 767px) {
+  .fixed-width-scroll {
+    touch-action: pan-x pan-y pinch-zoom !important; /* manipulation を上書き */
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+}

@@ -3,6 +3,7 @@ import React, { useState, useEffect, useMemo, useRef, useCallback } from 'react'
 import { BrowserRouter as Router, Routes, Route, useNavigate, useParams, Link } from 'react-router-dom';
 import { Search, ArrowLeft, FileText } from 'lucide-react';
 
+
 // ユーティリティ関数
 const parseMarkdown = (markdown) => {
   return markdown
@@ -424,17 +425,58 @@ const BMCCanvas = ({ bmcData }) => {
   const [topRowHeight, setTopRowHeight] = useState(420); // 初期値
   const topRowRef = useRef(null);
   const containerRef = useRef(null);
+  const [zoom, setZoom] = useState(1);
+  const [showZoomControls, setShowZoomControls] = useState(false);
+
+
 
   // モバイル判定
   useEffect(() => {
     const checkMobile = () => {
-      setIsMobile(window.innerWidth < 768);
+      const isMobileDevice = window.innerWidth < 768;
+      setIsMobile(isMobileDevice);
+      setShowZoomControls(isMobileDevice); // モバイルの場合のみコントロール表示
     };
     
     checkMobile();
     window.addEventListener('resize', checkMobile);
     return () => window.removeEventListener('resize', checkMobile);
   }, []);
+
+
+  // ズームコントロールコンポーネント
+  const ZoomControls = () => {
+    if (!showZoomControls) return null;
+    
+    return (
+      <div className="fixed bottom-20 right-4 flex flex-col space-y-2 z-50 bg-white rounded-lg shadow-lg p-2">
+        <button 
+          onClick={() => setZoom(prev => Math.min(prev + 0.3, 3))}
+          className="bg-blue-600 text-white p-3 rounded-full shadow-md hover:bg-blue-700 transition-colors"
+          aria-label="拡大"
+        >
+          <span className="text-lg font-bold">+</span>
+        </button>
+        <button 
+          onClick={() => setZoom(prev => Math.max(prev - 0.3, 0.5))}
+          className="bg-blue-600 text-white p-3 rounded-full shadow-md hover:bg-blue-700 transition-colors"
+          aria-label="縮小"
+        >
+          <span className="text-lg font-bold">−</span>
+        </button>
+        <button 
+          onClick={() => setZoom(1)}
+          className="bg-gray-600 text-white p-2 rounded-full shadow-md hover:bg-gray-700 transition-colors text-xs"
+          aria-label="リセット"
+        >
+          1:1
+        </button>
+        <div className="text-xs text-center text-gray-600 bg-white rounded px-2 py-1">
+          {Math.round(zoom * 100)}%
+        </div>
+      </div>
+    );
+  };
 
   // 上部行の高さを測定して下部ブロックの位置を調整
   const measureTopRowHeight = useCallback(() => {
@@ -528,20 +570,29 @@ const BMCCanvas = ({ bmcData }) => {
     <div>
       <ZoomHint />
       <BMCOverview />
+      <ZoomControls />
       
       {/* 固定幅BMC表示エリア */}
       <div className="w-full overflow-auto bg-gray-100 rounded-lg border-2 border-gray-300" 
            style={{ 
              height: isMobile ? '70vh' : 'auto',
              WebkitOverflowScrolling: 'touch',
-             touchAction: 'manipulation'
+             touchAction: 'pan-x pan-y pinch-zoom',
+             overscrollBehavior: 'contain'
            }}>
         
         {/* 動的サイズのBMCコンテナ */}
         <div 
           ref={containerRef}
           className="relative bg-white" 
-          style={{ width: '1400px', minHeight: '900px', padding: '24px' }}
+          style={{ 
+            width: '1400px', 
+            minHeight: '900px', 
+            padding: '24px',
+            transform: `scale(${zoom})`,
+            transformOrigin: 'top left',
+            transition: 'transform 0.2s ease-out'
+          }}
         >
           
           {/* BMC上部グリッド */}
