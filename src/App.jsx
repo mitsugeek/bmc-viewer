@@ -863,7 +863,7 @@ const CompanyPage = ({ companies }) => {
       setError(null);
       
       try {
-        const response = await fetch(`./companies/${code}.md`);
+        const response = await fetch(`${import.meta.env.BASE_URL}companies/${code}.md`);
         if (!response.ok) {
           throw new Error('企業データが見つかりません');
         }
