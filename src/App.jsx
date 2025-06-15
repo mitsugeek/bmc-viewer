@@ -914,7 +914,7 @@ const CompanyPage = ({ companies }) => {
       setError(null);
       
       try {
-        const response = await fetch(`${import.meta.env.BASE_URL}companies/${code}.md`);
+        const response = await fetch(`/bmc-viewer/companies/${code}.md`);
         if (!response.ok) {
           throw new Error('企業データが見つかりません');
         }
@@ -1015,7 +1015,7 @@ const AppContent = () => {
   useEffect(() => {
     const loadCompanies = async () => {
       try {
-        const response = await fetch('./companies.json');
+        const response = await fetch('/bmc-viewer/companies.json');
         if (!response.ok) {
           throw new Error('企業データの読み込みに失敗しました');
         }
