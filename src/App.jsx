@@ -751,7 +751,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
             <img 
-              src="./bmc-favicon.svg" 
+              src="/bmc-viewer/bmc-favicon.svg" 
               alt="BMC Viewer" 
               className="h-8 w-8"
             />
