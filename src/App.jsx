@@ -700,7 +700,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-3 hover:opacity-80 transition-opacity">
             <img 
-              src="/bmc-favicon.svg" 
+              src="./bmc-favicon.svg" 
               alt="BMC Viewer" 
               className="h-8 w-8"
             />
@@ -863,7 +863,7 @@ const CompanyPage = ({ companies }) => {
       setError(null);
       
       try {
-        const response = await fetch(`/companies/${code}.md`);
+        const response = await fetch(`./companies/${code}.md`);
         if (!response.ok) {
           throw new Error('企業データが見つかりません');
         }
@@ -964,7 +964,7 @@ const AppContent = () => {
   useEffect(() => {
     const loadCompanies = async () => {
       try {
-        const response = await fetch('/companies.json');
+        const response = await fetch('./companies.json');
         if (!response.ok) {
           throw new Error('企業データの読み込みに失敗しました');
         }
@@ -986,7 +986,7 @@ const AppContent = () => {
           <div className="text-red-600 mb-4">⚠️ エラーが発生しました</div>
           <div className="text-gray-600">{error}</div>
           <div className="text-sm text-gray-500 mt-2">
-            public/companies.jsonファイルが見つかりません
+            companies.jsonファイルが見つかりません
           </div>
         </div>
       </div>
@@ -1009,9 +1009,7 @@ const AppContent = () => {
 // アプリのエントリーポイント
 const App = () => {
   return (
-    <Router>
       <AppContent />
-    </Router>
   );
 };
 
