@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 三井物産 (8031).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Mitsui red as the visual direction, with primary #c8102e and secondary #334155. Do not reproduce or imitate official logos.
+Company-like design direction: 資源・インフラ投資を想起させるグローバル商流. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 三井物産 (8031) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 金属資源、エネルギー、機械・インフラ、化学品、生活産業などに投資・事業展開する総合商社。
+顧客セグメント: 資源・エネルギー需要家 / 製造業・インフラ事業者 / 消費財・ヘルスケア関連企業
+価値提案: 資源・インフラの安定供給 / 事業投資による成長機会 / 産業横断のネットワークと事業開発
+チャネル: 法人取引・長期契約 / 投資先企業 / 海外拠点・物流網
+顧客関係: 共同事業・長期供給契約 / 投資先の経営支援 / 産業知見に基づく提案
+収益の流れ: トレーディング収益 / 事業投資の持分利益 / 配当・売却益
+主要リソース: 投資ポートフォリオ / 資金調達力・信用力 / グローバル人材・情報網
+主要活動: 事業投資・経営管理 / 資源・商品取引 / プロジェクト開発
+主要パートナー: 資源会社・メーカー / 政府・地域パートナー / 金融・物流パートナー
+コスト構造: 投資資金・減損リスク / 人件費・拠点費 / 物流・開発コスト
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

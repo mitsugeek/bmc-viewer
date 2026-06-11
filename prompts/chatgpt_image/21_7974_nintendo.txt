@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 任天堂 (7974).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Nintendo red as the visual direction, with primary #e60012 and secondary #ffffff. Do not reproduce or imitate official logos.
+Company-like design direction: ゲーム企業らしい遊び心のあるグリッドとボタン感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 任天堂 (7974) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: ゲーム専用機、ソフトウェア、IP関連ビジネスを展開するエンタテインメント企業。
+顧客セグメント: 家庭用ゲーム利用者 / ファミリー・ライトユーザー / IPファン・ライセンス先
+価値提案: 独自IPによる遊びの体験 / ハードとソフトの一体設計 / 世代を超えた安全で親しみやすい娯楽
+チャネル: 小売・ECでのハード/ソフト販売 / Nintendo eShop / ライセンス・映像・テーマ施設
+顧客関係: ゲーム体験を通じた長期ファン化 / オンラインサービス会員 / IP接点の拡張
+収益の流れ: ハード販売 / ソフト販売・ダウンロード / オンライン・IPライセンス収入
+主要リソース: マリオ等のIP / ゲーム開発力 / ハード/ソフト統合設計
+主要活動: ゲーム企画・開発 / ハード設計・生産管理 / IP展開・プラットフォーム運営
+主要パートナー: 開発会社・販売店 / 製造委託先・部品メーカー / 映像/テーマパーク等のIPパートナー
+コスト構造: 研究開発費 / 製造・物流費 / マーケティング・IP展開費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

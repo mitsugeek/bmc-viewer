@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for ダイキン工業 (6367).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Daikin blue as the visual direction, with primary #0099d9 and secondary #005bac. Do not reproduce or imitate official logos.
+Company-like design direction: 空調メーカーらしい空気の流れと温度制御感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: ダイキン工業 (6367) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 空調機器とフッ素化学をグローバルに展開する空調メーカー。
+顧客セグメント: 住宅・商業施設・工場の空調利用者 / 設備会社・販売店 / 化学材料の産業顧客
+価値提案: 省エネ・快適な空調 / 地域気候に合わせた製品展開 / 空調と保守サービスの一体提供
+チャネル: 販売店・設備会社 / 法人営業・代理店 / 海外販売/サービス拠点
+顧客関係: 設置後の保守・更新需要 / 販売店との長期関係 / 法人向け設備提案
+収益の流れ: 空調機器販売 / 保守・部品・サービス / 化学製品販売
+主要リソース: ヒートポンプ・冷媒技術 / グローバル製造/販売網 / 施工・サービスネットワーク
+主要活動: 製品開発・製造 / 販売店支援・施工連携 / 保守・省エネ提案
+主要パートナー: 販売店・設備工事会社 / 部品/材料サプライヤー / 建設・不動産関連企業
+コスト構造: 研究開発費 / 材料・製造・物流費 / 販売/サービス網運営費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

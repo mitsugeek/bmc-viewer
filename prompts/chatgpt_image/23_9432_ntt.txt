@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for NTT (9432).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use NTT blue as the visual direction, with primary #005bac and secondary #00a3e0. Do not reproduce or imitate official logos.
+Company-like design direction: 通信インフラらしい電波・ネットワーク波形. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: NTT (9432) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 国内通信、グローバルソリューション、地域通信、データセンター等を展開する通信グループ。
+顧客セグメント: 個人通信利用者 / 企業・公共機関 / グローバルIT/データセンター顧客
+価値提案: 固定・モバイル通信の安定接続 / 企業DX・クラウド/データセンター支援 / 全国規模の通信インフラ
+チャネル: 通信販売店・Web / 法人営業 / グループ会社サービス網
+顧客関係: 月額契約による継続関係 / 法人向け長期運用契約 / サポート・保守窓口
+収益の流れ: 通信料・月額サービス / システム/クラウド/データセンター収益 / 端末・付帯サービス
+主要リソース: 通信ネットワーク / 周波数・設備・データセンター / 技術者・研究所
+主要活動: 通信網構築・運用 / ICTサービス開発・提供 / 法人システム運用
+主要パートナー: 端末メーカー・設備ベンダー / クラウド/ソフトウェア企業 / 自治体・企業顧客
+コスト構造: 設備投資・減価償却 / ネットワーク運用費 / 人件費・販売費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

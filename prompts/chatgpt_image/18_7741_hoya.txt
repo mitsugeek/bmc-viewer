@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for HOYA (7741).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use HOYA blue as the visual direction, with primary #005bac and secondary #4b5563. Do not reproduce or imitate official logos.
+Company-like design direction: 光学・医療・精密機器らしいレンズと視野の重なり. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: HOYA (7741) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: ライフケアと情報・通信領域で光学・医療関連製品を展開する精密機器・材料企業。
+顧客セグメント: 医療機関・眼科/内視鏡関連顧客 / 半導体・HDD関連メーカー / 眼鏡レンズ利用者・販売店
+価値提案: 光学・材料技術を生かした高付加価値製品 / 医療・視覚領域の品質と信頼性 / 半導体/データ関連部材の精密供給
+チャネル: 医療・眼鏡販売チャネル / B2B直販 / 海外販売拠点
+顧客関係: 医療現場・販売店との継続関係 / B2B長期供給契約 / 技術サポート
+収益の流れ: 医療/眼鏡関連製品販売 / 半導体マスクブランクス等の販売 / 保守・関連サービス
+主要リソース: 光学・材料・精密加工技術 / 医療機器品質管理 / グローバル販売網
+主要活動: 製品開発・製造 / 品質保証・規制対応 / 販売・技術支援
+主要パートナー: 医療機関・販売店 / 半導体メーカー / 部材・装置サプライヤー
+コスト構造: 研究開発費 / 精密製造・品質管理費 / 規制対応・販売費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

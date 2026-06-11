@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for リクルートホールディングス (6098).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Recruit blue as the visual direction, with primary #0072bc and secondary #00a6d6. Do not reproduce or imitate official logos.
+Company-like design direction: マッチングプラットフォームらしい検索・接続・データ感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: リクルートホールディングス (6098) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 求人検索、HRテクノロジー、販促・人材マッチングを展開するプラットフォーム企業。
+顧客セグメント: 求職者・求人企業 / 住宅・美容・飲食等の事業者と消費者 / 派遣先企業・派遣スタッフ
+価値提案: 求人・販促のマッチング効率化 / 検索・予約・応募の利便性 / 企業の採用/集客支援
+チャネル: Indeed等のオンラインプラットフォーム / 各種メディア/アプリ / 法人営業・派遣拠点
+顧客関係: 成果型/掲載型の継続利用 / アカウント営業 / ユーザーデータに基づく改善
+収益の流れ: 求人広告・クリック課金 / 販促メディア掲載・予約関連収益 / 人材派遣売上
+主要リソース: マッチングデータ・ブランド / プロダクト開発力 / 法人顧客基盤
+主要活動: プラットフォーム運営 / 検索/推薦技術開発 / 法人営業・派遣運営
+主要パートナー: 求人企業・店舗事業者 / 検索/広告エコシステム / 派遣スタッフ・関連会社
+コスト構造: 人件費・開発費 / 広告宣伝・集客費 / 派遣人件費・運営費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

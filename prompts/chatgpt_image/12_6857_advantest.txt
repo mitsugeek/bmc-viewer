@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for アドバンテスト (6857).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Advantest red as the visual direction, with primary #d71920 and secondary #1f2937. Do not reproduce or imitate official logos.
+Company-like design direction: 半導体テスト装置らしい精密測定と回路感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: アドバンテスト (6857) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 半導体試験装置、メカトロニクス、サービスを提供するテストソリューション企業。
+顧客セグメント: 半導体メーカー / OSAT・テストハウス / ファウンドリ・設計会社
+価値提案: 高性能半導体の量産テスト効率化 / 品質・歩留まり向上 / 装置とサービスを組み合わせたテストソリューション
+チャネル: グローバル直販 / 顧客工場での技術サポート / 共同評価・アプリケーション支援
+顧客関係: 装置導入後の長期保守 / 新製品立上げ時の共同検証 / 大口顧客別アカウント管理
+収益の流れ: 試験装置販売 / 保守・部品・サービス / 周辺装置・ソリューション収益
+主要リソース: テスト技術・ソフトウェア / 顧客アプリケーション知見 / グローバルサポート網
+主要活動: 装置開発・製造 / 顧客テスト条件の最適化 / 保守・アップグレード
+主要パートナー: 半導体メーカー / 部品・精密加工サプライヤー / 研究機関
+コスト構造: 研究開発費 / 精密部品・製造費 / フィールドサポート費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

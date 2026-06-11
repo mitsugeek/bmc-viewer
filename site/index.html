@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>日本上場企業 BMC Viewer</title>
+    <link rel="stylesheet" href="styles.css?v=business-quality-v1">
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-main">
+        <div>
+          <p class="kicker">TOPIX Core30 Pilot</p>
+          <h1>日本上場企業 BMC Viewer</h1>
+        </div>
+        <div class="header-actions" aria-label="Project links">
+          <a class="button" href="../data/company_backlog.csv">CSV台帳</a>
+          <a class="button" href="../data/business_bmc_backlog.csv">事業別台帳</a>
+          <a class="button" href="../docs/business_bmc_deep_dive_workflow.md">深掘り手順</a>
+          <a class="button" href="../README.md">README</a>
+          <a class="button" href="../docs/implementation_status.md">実装状況</a>
+        </div>
+      </div>
+      <div class="metrics" id="metrics" aria-label="Summary"></div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar" aria-label="Company controls">
+        <div class="control-group">
+          <label for="search">検索</label>
+          <input id="search" type="search" placeholder="企業名・コード・業種">
+        </div>
+        <div class="control-group">
+          <label for="industry">業種</label>
+          <select id="industry">
+            <option value="">すべて</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label for="sort">並び順</label>
+          <select id="sort">
+            <option value="priority">優先順位</option>
+            <option value="weight">TOPIXウエイト</option>
+            <option value="industry">業種</option>
+          </select>
+        </div>
+        <div class="result-count" id="result-count"></div>
+        <div class="company-list" id="company-list" role="listbox" aria-label="Companies"></div>
+      </aside>
+
+      <section class="detail" id="detail" aria-live="polite">
+        <div class="empty-state">企業を選択してください。</div>
+      </section>
+    </main>
+
+    <script src="data.js?v=business-quality-v1"></script>
+    <script src="app.js?v=business-quality-v1"></script>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for ファーストリテイリング (9983).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Fast Retailing red as the visual direction, with primary #ed1c24 and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: SPAアパレルらしい店舗棚・商品タイル・整理感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: ファーストリテイリング (9983) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: ユニクロ、ジーユー等を世界展開するSPA型アパレル小売グループ。
+顧客セグメント: 日常衣料を求める幅広い消費者 / 価格と品質を重視する家族・個人 / 海外都市部のアパレル顧客
+価値提案: 高品質・機能性のあるベーシック衣料 / 手頃な価格と豊富なサイズ/色 / 店舗とECの利便性
+チャネル: 直営店舗 / EC/アプリ / グローバル物流・店舗網
+顧客関係: 定番商品の継続購入 / アプリ会員・EC接点 / 季節商品・コラボでの再来店
+収益の流れ: 衣料品販売 / EC販売 / ブランド別店舗販売
+主要リソース: ブランド・商品企画力 / SPAサプライチェーン / 店舗網・データ基盤
+主要活動: 商品企画・生産管理 / 店舗運営・販売 / 物流・在庫管理
+主要パートナー: 素材メーカー・縫製工場 / 物流会社 / 商業施設・EC基盤
+コスト構造: 商品原価・物流費 / 店舗賃料・人件費 / 広告宣伝・IT投資
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

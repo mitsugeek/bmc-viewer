@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for KDDI (9433).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use KDDI orange as the visual direction, with primary #ff6a00 and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: 通信と生活サービスをつなぐ電波・接続モチーフ. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: KDDI (9433) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: au/UQ/povo等の通信を中核に、金融、エネルギー、法人DXを展開する通信事業者。
+顧客セグメント: 個人モバイル利用者 / 中小・大企業 / 通信周辺サービス利用者
+価値提案: 安定したモバイル/固定通信 / 通信と金融・決済・エネルギーの連携 / 法人DX・IoT支援
+チャネル: auショップ・量販店 / オンライン/アプリ / 法人営業
+顧客関係: 月額契約・ポイント経済圏 / サポート窓口・店舗対応 / 法人向けアカウント営業
+収益の流れ: 通信料 / 端末・付加サービス / 法人ソリューション・金融関連収益
+主要リソース: モバイルネットワーク・周波数 / ブランド・顧客基盤 / 決済/ID/データ基盤
+主要活動: ネットワーク構築・運用 / 料金/サービス企画 / 法人DX・IoT提供
+主要パートナー: 端末メーカー・販売代理店 / 金融/決済/コンテンツ企業 / 設備ベンダー
+コスト構造: 設備投資・減価償却 / 販売手数料・広告費 / ネットワーク運用費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

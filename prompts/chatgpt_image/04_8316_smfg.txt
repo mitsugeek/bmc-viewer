@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 三井住友フィナンシャルグループ (8316).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use SMBC green as the visual direction, with primary #00843d and secondary #0f172a. Do not reproduce or imitate official logos.
+Company-like design direction: 銀行・カード・法人金融を支える信頼感のある構造線. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 三井住友フィナンシャルグループ (8316) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 銀行、カード、リース、証券、海外金融を展開する総合金融グループ。
+顧客セグメント: 個人・法人・中堅中小企業 / 大企業・機関投資家 / 海外企業・金融機関
+価値提案: 決済・融資・運用を一体提供 / 法人の成長・再編・海外展開支援 / カード・デジタル金融の利便性
+チャネル: 銀行店舗・法人営業 / カード/アプリ/オンライン / 海外拠点・提携先
+顧客関係: 長期リレーション営業 / デジタルでの継続接点 / 専門チームによる課題解決
+収益の流れ: 貸出利息 / 決済・カード・証券手数料 / 市場運用・海外金融収益
+主要リソース: 預金・顧客基盤 / 銀行・カード等のライセンス / 与信/リスク管理能力
+主要活動: 融資・決済・カード運営 / 法人金融・投資銀行業務 / 市場運用・リスク管理
+主要パートナー: 事業会社・加盟店 / 決済ネットワーク / 海外金融機関・規制当局
+コスト構造: 人件費・店舗費 / IT/決済インフラ費 / 信用コスト・規制対応
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

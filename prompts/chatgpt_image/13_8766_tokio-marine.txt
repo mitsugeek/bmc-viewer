@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 東京海上ホールディングス (8766).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Tokio Marine blue/red as the visual direction, with primary #005bac and secondary #d71920. Do not reproduce or imitate official logos.
+Company-like design direction: 保険会社らしい保護・安心・リスク管理の盾モチーフ. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 東京海上ホールディングス (8766) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 国内外で損害保険、生命保険、リスクソリューションを展開する保険グループ。
+顧客セグメント: 個人・家庭 / 中小企業・大企業 / 海外法人・専門リスク顧客
+価値提案: 事故・災害・事業リスクの移転 / 保険金支払いと事故対応 / リスク予防・コンサルティング
+チャネル: 代理店・ブローカー / 法人営業 / デジタル販売・提携チャネル
+顧客関係: 契約更新を通じた長期関係 / 事故時の迅速な支援 / リスク診断・提案営業
+収益の流れ: 保険料収入 / 資産運用収益 / 海外保険事業収益
+主要リソース: 保険引受能力・資本 / 損害査定・データ / 代理店網・海外事業基盤
+主要活動: 保険引受・料率設計 / 損害サービス・支払い / 資産運用・リスク管理
+主要パートナー: 代理店・ブローカー / 再保険会社 / 医療・修理・防災関連事業者
+コスト構造: 保険金・支払備金 / 代理店手数料 / 人件費・IT/査定コスト
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

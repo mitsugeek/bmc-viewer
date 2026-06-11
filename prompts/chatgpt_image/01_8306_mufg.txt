@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 三菱UFJフィナンシャル・グループ (8306).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use MUFG red/purple as the visual direction, with primary #d71920 and secondary #6f2c91. Do not reproduce or imitate official logos.
+Company-like design direction: メガバンクらしい堅牢な金融グリッドと安定感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 三菱UFJフィナンシャル・グループ (8306) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 銀行、信託、証券、カード、資産運用を束ねる総合金融グループ。
+顧客セグメント: 個人・中小企業・大企業 / 国内外の機関投資家 / 政府・自治体・金融機関
+価値提案: 預貸・決済・資産形成を一体提供 / 大企業向けの資金調達とM&A支援 / グローバルネットワークによる金融仲介
+チャネル: 店舗・法人営業 / インターネット/モバイルバンキング / 海外拠点・提携金融機関
+顧客関係: 長期取引に基づくリレーション営業 / デジタル接点での継続利用 / 専門部署による大口顧客対応
+収益の流れ: 貸出利息・預貸金利ざや / 決済・送金・信託・証券手数料 / 市場運用・トレーディング収益
+主要リソース: 預金基盤と自己資本 / 金融ライセンスと信用力 / 国内外の店舗・システム基盤
+主要活動: 与信審査・リスク管理 / 決済・預金・融資運営 / 市場運用・商品組成
+主要パートナー: 事業会社・機関投資家 / 決済ネットワーク・フィンテック / 規制当局・海外金融機関
+コスト構造: 人件費・店舗運営費 / IT/セキュリティ投資 / 信用コスト・規制対応コスト
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

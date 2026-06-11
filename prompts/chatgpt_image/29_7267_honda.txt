@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 本田技研工業 (7267).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Honda red as the visual direction, with primary #e40521 and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: 二輪・四輪モビリティらしい走行軌跡とエンジニアリング感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 本田技研工業 (7267) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 二輪、四輪、パワープロダクツ、金融サービスをグローバル展開するモビリティ企業。
+顧客セグメント: 二輪・四輪の個人/法人顧客 / 販売店・フリート顧客 / 金融・リース利用者
+価値提案: 二輪から四輪までの移動手段 / エンジン/電動化技術と走行体験 / 販売金融・保守を含む総合サービス
+チャネル: 販売店網 / 法人/フリート営業 / オンライン・金融子会社
+顧客関係: 販売店を通じた長期保守 / ブランドファンとの継続関係 / 金融契約・リース契約
+収益の流れ: 二輪・四輪販売 / 補修部品・サービス / 販売金融収益
+主要リソース: 研究開発・生産技術 / グローバル販売網 / 二輪/四輪ブランド
+主要活動: 製品開発・製造 / 調達・品質管理 / 販売・金融・保守支援
+主要パートナー: 部品サプライヤー / 販売店・金融会社 / 電池・ソフトウェア関連企業
+コスト構造: 研究開発費 / 材料・製造・物流費 / 販売促進・保証費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

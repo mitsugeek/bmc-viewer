@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for キーエンス (6861).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Keyence red as the visual direction, with primary #e60012 and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: FAセンサ企業らしい測定線・ターゲット・精密感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: キーエンス (6861) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: FAセンサ、測定器、画像処理機器、制御機器等を直販中心に提供する高付加価値FA企業。
+顧客セグメント: 製造業の生産技術・品質管理部門 / 研究開発・検査部門 / 工場自動化を進める企業
+価値提案: 生産性・品質向上に直結するFA機器 / 短納期と技術提案 / 現場課題に即した高付加価値ソリューション
+チャネル: 直販営業 / 技術営業・デモ / Web問い合わせ・カタログ
+顧客関係: 現場密着の課題提案 / 迅速な見積・納品 / 導入後の技術支援
+収益の流れ: FA機器販売 / 周辺機器・消耗品 / 海外販売収益
+主要リソース: 商品企画・開発力 / 直販営業組織 / 高収益ブランド・顧客データ
+主要活動: 市場ニーズ発掘 / 商品開発・外部製造管理 / 技術営業・サポート
+主要パートナー: 製造委託先 / 部品サプライヤー / 物流・販売支援先
+コスト構造: 人件費・営業費 / 研究開発・商品企画費 / 製造委託・物流費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

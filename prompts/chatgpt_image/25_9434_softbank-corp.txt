@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for ソフトバンク (9434).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use SoftBank silver/black as the visual direction, with primary #a7a9ac and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: 通信・メディア・ECを束ねるデジタルサービス網. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: ソフトバンク (9434) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: コンシューマ通信、法人通信、Yahoo!/LINE等のメディア・EC・フィンテックを展開。
+顧客セグメント: 個人通信利用者 / 企業・自治体 / メディア/EC/決済利用者
+価値提案: 通信とデジタルサービスの統合 / 法人DX・クラウド/AI支援 / メディア・EC・決済を含む生活接点
+チャネル: ソフトバンクショップ・量販店 / Web/アプリ / 法人営業・パートナー販売
+顧客関係: 月額契約・会員ID基盤 / 店舗/オンラインサポート / 法人アカウント営業
+収益の流れ: 通信料 / 端末・付加サービス / 広告・EC・決済/法人ソリューション
+主要リソース: 通信網・周波数 / 顧客ID/データ基盤 / グループ内デジタルサービス
+主要活動: 通信網運用 / サービス企画・販売 / 法人DX/メディア/EC運営
+主要パートナー: 端末メーカー・販売代理店 / Yahoo!/LINE関連サービス / クラウド・AI企業
+コスト構造: 設備投資・運用費 / 販売手数料・広告費 / コンテンツ/システム運営費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

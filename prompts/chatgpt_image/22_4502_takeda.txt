@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 武田薬品工業 (4502).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Takeda red as the visual direction, with primary #e1242a and secondary #111827. Do not reproduce or imitate official logos.
+Company-like design direction: グローバル製薬企業らしいカプセル・細胞・研究感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 武田薬品工業 (4502) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 消化器、希少疾患、血漿分画製剤、オンコロジー、ニューロサイエンス等を展開するグローバル製薬企業。
+顧客セグメント: 患者・医療機関 / 保険者・政府医療制度 / 研究機関・医薬品販売パートナー
+価値提案: 重点疾患領域の治療選択肢 / グローバル開発・供給体制 / 希少疾患等の専門性
+チャネル: 医療機関向け営業・メディカル / 卸・販売パートナー / グローバル市場での承認/販売
+顧客関係: 医療従事者との科学的情報提供 / 患者支援・安全性情報管理 / 規制当局との継続対話
+収益の流れ: 医療用医薬品販売 / ライセンス収入 / 地域別販売収益
+主要リソース: 研究開発パイプライン / 製造・品質・薬事機能 / グローバル販売網
+主要活動: 創薬・臨床開発 / 製造・品質保証 / 承認取得・販売/安全性管理
+主要パートナー: 研究機関・バイオ企業 / 医薬品卸・医療機関 / 規制当局・CRO/CDMO
+コスト構造: 研究開発費 / 製造・品質管理費 / 販売管理・薬事対応費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

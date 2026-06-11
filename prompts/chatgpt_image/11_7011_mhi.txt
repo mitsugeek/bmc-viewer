@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 三菱重工業 (7011).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use MHI red as the visual direction, with primary #e60012 and secondary #243746. Do not reproduce or imitate official logos.
+Company-like design direction: 重工業・防衛・エネルギーの大型構造物感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 三菱重工業 (7011) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: エナジー、プラント、物流・冷熱、航空・防衛・宇宙などの重工業製品とシステムを提供。
+顧客セグメント: 電力・エネルギー事業者 / 政府・防衛・宇宙関連機関 / 製造・物流・インフラ事業者
+価値提案: 大規模インフラの設計・製造・保守 / 脱炭素・高効率エネルギー技術 / 防衛・宇宙等の高信頼システム
+チャネル: 法人/政府向け直販 / EPC・長期保守契約 / 海外拠点・代理店
+顧客関係: 長期プロジェクト型関係 / 運用保守を含むライフサイクル支援 / 共同開発・技術提案
+収益の流れ: 機器・システム販売 / 工事・EPC収益 / 保守・サービス収益
+主要リソース: 大型製造設備 / 設計・制御・材料技術 / 防衛/エネルギー領域の実績
+主要活動: 設計・製造・据付 / 研究開発・品質保証 / 保守・運用支援
+主要パートナー: 部品・材料サプライヤー / 政府・電力会社 / EPC・建設会社
+コスト構造: 研究開発費 / 材料・製造・工事費 / 品質保証・プロジェクトリスク
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

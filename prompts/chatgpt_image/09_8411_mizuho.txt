@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for みずほフィナンシャルグループ (8411).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Mizuho blue/red as the visual direction, with primary #005bac and secondary #e60012. Do not reproduce or imitate official logos.
+Company-like design direction: 銀行・信託・証券一体の整然とした金融基盤. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: みずほフィナンシャルグループ (8411) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 銀行、信託、証券を一体運営する総合金融グループ。
+顧客セグメント: 個人・中小企業 / 大企業・金融法人 / 海外法人・機関投資家
+価値提案: 銀行・信託・証券一体の金融サービス / 大企業向け資金調達・M&A支援 / 資産形成・運用ソリューション
+チャネル: 店舗・法人営業 / ネット/アプリ / 証券・信託チャネル
+顧客関係: 産業知見に基づく提案営業 / 長期金融取引 / デジタル接点での継続利用
+収益の流れ: 貸出利息 / 証券・信託・決済手数料 / 市場運用収益
+主要リソース: 顧客基盤・預金 / 銀行/信託/証券機能 / リスク管理・産業調査力
+主要活動: 融資・決済 / 投資銀行・資産運用 / 市場運用・リスク管理
+主要パートナー: 事業会社・機関投資家 / 決済/IT企業 / 規制当局・海外金融機関
+コスト構造: 人件費・店舗費 / ITシステム費 / 信用コスト・規制対応
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

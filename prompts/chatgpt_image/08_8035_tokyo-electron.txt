@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 東京エレクトロン (8035).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use TEL blue as the visual direction, with primary #0067b1 and secondary #00a3e0. Do not reproduce or imitate official logos.
+Company-like design direction: 半導体製造装置らしい精密回路パターン. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 東京エレクトロン (8035) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 半導体製造装置とフラットパネルディスプレイ製造装置を提供する製造装置メーカー。
+顧客セグメント: 半導体メーカー / ファウンドリ・メモリメーカー / ディスプレイメーカー
+価値提案: 微細化・高性能化に必要な製造装置 / プロセス技術と装置サポート / 歩留まり・生産性改善
+チャネル: グローバル直販 / 顧客工場でのフィールドサポート / 共同開発・評価ライン
+顧客関係: 長期の技術共同開発 / 装置導入後の保守契約 / 大口顧客別アカウント管理
+収益の流れ: 装置販売 / 保守・部品・改造 / サービス契約
+主要リソース: プロセス技術・特許 / 製造・品質管理力 / フィールドエンジニア
+主要活動: 装置開発・製造 / 顧客プロセス評価 / 保守・改善提案
+主要パートナー: 材料・部品サプライヤー / 半導体メーカー / 研究機関・大学
+コスト構造: 研究開発費 / 精密部品・製造費 / サービス網・人件費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

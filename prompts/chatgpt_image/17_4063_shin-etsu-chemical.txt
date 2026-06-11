@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 信越化学工業 (4063).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Shin-Etsu blue as the visual direction, with primary #005bac and secondary #00a3e0. Do not reproduce or imitate official logos.
+Company-like design direction: 素材・化学メーカーらしい分子構造と高純度感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 信越化学工業 (4063) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 塩ビ、シリコーン、半導体シリコン、電子材料、機能材料を展開する化学メーカー。
+顧客セグメント: 半導体メーカー / 建材・インフラ関連企業 / 自動車・電子・消費財メーカー
+価値提案: 高純度・高品質な素材供給 / グローバル量産能力 / 顧客工程に合わせた材料技術
+チャネル: 法人直販・長期供給契約 / 海外販売拠点 / 技術サポート
+顧客関係: 安定供給に基づく長期取引 / 材料評価・共同開発 / 大口顧客別対応
+収益の流れ: 素材・化学品販売 / 半導体材料販売 / 加工品・技術サービス
+主要リソース: 製造設備・プロセス技術 / 高純度材料技術 / 原料調達・品質管理
+主要活動: 素材開発・製造 / 品質保証・供給管理 / 顧客用途開発
+主要パートナー: 原料サプライヤー / 半導体・建材メーカー / 物流・設備会社
+コスト構造: 原材料・エネルギー費 / 設備投資・減価償却 / 研究開発・品質保証費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

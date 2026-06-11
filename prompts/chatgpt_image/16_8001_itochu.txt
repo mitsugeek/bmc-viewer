@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 伊藤忠商事 (8001).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use ITOCHU blue/red as the visual direction, with primary #003f8f and secondary #d71920. Do not reproduce or imitate official logos.
+Company-like design direction: 生活消費領域に強い商社らしい流通ネットワーク. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 伊藤忠商事 (8001) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 繊維、機械、金属、エネルギー、食料、住生活、情報・金融などに事業投資する総合商社。
+顧客セグメント: 消費財・小売関連企業 / 資源・エネルギー需要家 / 事業投資先・産業顧客
+価値提案: 生活消費領域に強い事業開発 / 商流・物流・金融を組み合わせた供給力 / 投資先の経営改善と成長支援
+チャネル: 法人取引・事業会社 / 国内外拠点 / 小売・ブランド関連ネットワーク
+顧客関係: 長期取引・共同事業 / 投資先との資本関係 / ブランド/流通での継続接点
+収益の流れ: トレーディングマージン / 事業投資利益・配当 / ブランド・小売関連収益
+主要リソース: 投資ポートフォリオ / 生活消費領域の商流 / 信用力・人材・情報網
+主要活動: 事業投資・経営管理 / 商品取引・物流設計 / 新規事業開発
+主要パートナー: メーカー・小売企業 / 資源会社・金融機関 / 投資先経営陣
+コスト構造: 投資資金・減損リスク / 人件費・拠点費 / 物流・在庫・事業運営費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

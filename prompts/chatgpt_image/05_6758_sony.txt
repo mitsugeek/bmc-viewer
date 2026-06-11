@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for ソニーグループ (6758).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Sony black as the visual direction, with primary #111827 and secondary #6b7280. Do not reproduce or imitate official logos.
+Company-like design direction: エンタメとテクノロジーが交差する波形と光点. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: ソニーグループ (6758) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: ゲーム、音楽、映画、エンタテインメント技術、イメージセンサー等を持つクリエイティブ・テクノロジー企業。
+顧客セグメント: ゲーム・音楽・映像の消費者 / クリエイター・制作会社 / スマートフォン/カメラ等の機器メーカー
+価値提案: IPとプラットフォームによる体験価値 / 映像・音響・センシング技術 / クリエイター向け制作・流通機能
+チャネル: PlayStation Network / 映画館・配信・音楽配信 / 機器販売・部品顧客への直販
+顧客関係: サブスクリプションとコミュニティ / IPファンとの継続接点 / B2B長期供給契約
+収益の流れ: ゲーム・ネットワーク課金 / 音楽/映画の権利・配信収入 / センサー・機器販売
+主要リソース: IP・アーティスト/スタジオ / 半導体・映像音響技術 / グローバルブランド
+主要活動: コンテンツ制作・権利管理 / ハード/半導体開発 / プラットフォーム運営
+主要パートナー: ゲーム開発会社・配信事業者 / アーティスト・映画制作会社 / 半導体製造・機器メーカー
+コスト構造: 研究開発費 / コンテンツ制作・獲得費 / 製造・マーケティング費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 三菱商事 (8058).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use Mitsubishi red as the visual direction, with primary #e60012 and secondary #2f3a45. Do not reproduce or imitate official logos.
+Company-like design direction: 総合商社らしい世界地図・商流ネットワーク感. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 三菱商事 (8058) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: 天然ガス、金属、食品、モビリティ、電力、都市開発などに投資・事業運営する総合商社。
+顧客セグメント: 資源・エネルギー需要家 / 食品・素材・自動車等の産業顧客 / 投資先企業・地域社会
+価値提案: 資源・商品・事業をつなぐ供給力 / 投資と事業経営による価値創出 / グローバルネットワークによる案件組成
+チャネル: 法人取引・長期契約 / 投資先・事業会社 / 海外拠点ネットワーク
+顧客関係: 長期オフテイク/供給契約 / 共同事業・出資関係 / 産業横断の課題解決営業
+収益の流れ: トレーディングマージン / 事業投資の持分利益・配当 / サービス・開発収益
+主要リソース: 投資ポートフォリオ / 信用力・資金調達力 / グローバル人材・情報網
+主要活動: 事業投資・経営管理 / 商品取引・物流手配 / 新規事業開発
+主要パートナー: 資源メジャー・メーカー / 政府・地域パートナー / 金融機関・物流会社
+コスト構造: 投資資金・資産減損リスク / 人件費・拠点運営費 / 物流・プロジェクト開発費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for 日本たばこ産業 (2914).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use JT blue as the visual direction, with primary #004098 and secondary #00a3e0. Do not reproduce or imitate official logos.
+Company-like design direction: 消費財メーカーらしいパッケージ層とブランド棚. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: 日本たばこ産業 (2914) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: たばこを中核に、医薬、加工食品も展開するグローバル消費財企業。
+顧客セグメント: 成人喫煙者 / 小売店・販売チャネル / 医療機関・食品消費者
+価値提案: ブランドたばこ製品の安定供給 / 加熱式等の選択肢 / 医薬・加工食品の補完事業
+チャネル: 小売店・自販機等 / 海外販売網 / 医薬/食品の卸・販売チャネル
+顧客関係: ブランドロイヤルティ / 小売チャネルとの継続取引 / 規制に沿った情報提供
+収益の流れ: たばこ製品販売 / 医薬品販売・ライセンス / 加工食品販売
+主要リソース: たばこブランド / 製造・調達・販売網 / 研究開発・規制対応力
+主要活動: 製品開発・製造 / ブランド管理・販売 / 規制対応・品質管理
+主要パートナー: 小売・卸 / 葉たばこ生産者・サプライヤー / 医薬/食品関連パートナー
+コスト構造: 原材料・製造費 / 税・規制対応コスト / 販売促進・物流費
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.

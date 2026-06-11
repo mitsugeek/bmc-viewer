@@ -1,0 +1,28 @@
+Use case: infographic-diagram
+Asset type: 16:9 Japanese Business Model Canvas image
+Primary request: Create one clean, business-focused Business Model Canvas image for ソフトバンクグループ (9984).
+Language: Japanese only.
+Canvas: 9 clearly separated BMC blocks. Use short bullet phrases. No extra claims beyond the text below.
+Style: quiet professional corporate infographic, white background, high readability, restrained colors, no decorative stock imagery, no mascot, no watermark.
+Brand-inspired palette: use SoftBank Group black/silver as the visual direction, with primary #111827 and secondary #b6bbc3. Do not reproduce or imitate official logos.
+Company-like design direction: AI・投資会社らしいポートフォリオネットワーク. Use this as subtle background motif, title-area geometry, dividers, and small abstract accents. Keep it restrained and do not reduce text readability.
+Required title: ソフトバンクグループ (9984) Business Model Canvas
+Required subtitle: 初期ドラフト / 公式資料レビュー前
+
+Exact content to include:
+企業概要: AI・テクノロジー領域を中心に投資する持株会社。
+顧客セグメント: 投資家・株主 / AI/半導体/テック企業 / ポートフォリオ企業
+価値提案: 成長企業への大規模資本供給 / グローバル投資ネットワーク / Arm等の中核資産によるAIエコシステム接点
+チャネル: 投資委員会・ファンド運営 / 資本市場・IR / ポートフォリオ支援ネットワーク
+顧客関係: 投資先との資本・経営支援関係 / 株主への定期開示 / 共同投資家との継続関係
+収益の流れ: 投資評価益・売却益 / 配当・持分法損益 / 事業会社収益
+主要リソース: 投資資本・保有株式 / 投資人材・データ / ブランド・資金調達力
+主要活動: 投資判断・ポートフォリオ管理 / 資金調達・資本政策 / 投資先支援・出口戦略
+主要パートナー: 機関投資家・共同投資家 / 金融機関 / テクノロジー企業
+コスト構造: ファンド運営費 / 金融費用 / 投資評価損・減損リスク
+
+Important constraints:
+- Preserve the company name, stock code, and all 9 block labels exactly.
+- Keep text large enough to read in a 16:9 slide.
+- If text does not fit, shorten bullet wording without changing meaning.
+- Do not invent numbers, financial metrics, rankings, logos, or unsupported facts.
